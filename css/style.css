@@ -31,7 +31,7 @@ nav{
 	cursor: pointer;
 }
 span{
-	color: #f9004d;
+	color: #d29327c9;
 }
 
 /* Navigation list style type */
@@ -49,11 +49,11 @@ nav ul li a{
 	text-transform: capitalize;
 }
 nav ul li a:hover{
-	color: #f9004d;
+	color: #d29327c9;
 	transition: .4s;
 }
 .btn{
-	background-color:#f9004d;
+	background-color:#d29327c9;
 	color: white;
 	text-decoration: none;
 	border: 2px solid transparent;
@@ -82,7 +82,7 @@ h3{
 	margin-bottom: 50px;
 }
 h4{
-	color: #fcfc;
+	color: rgba(134, 74, 0, 0.902);
 	letter-spacing: 2px;
 	font-size: 20px;
 }
@@ -95,7 +95,7 @@ h4{
 	display: inline-block;
 	width: 100%;
 	padding: 14px 130px 14px 15px;
-	border: 2px solid #f9004d;
+	border: 2px solid #d29327c9;
 	outline: none;
 	border-radius: 30px;
 }
@@ -106,7 +106,7 @@ h4{
 	border: none;
 	padding: 10px 30px;
 	border-radius: 30px;
-	background-color:#f9004d;
+	background-color:#d29327c9;
 	color: white;
 	box-shadow: 0px 0px 5px #000, 0px 0px 15px #858585;
 	top: 6px;
@@ -147,14 +147,14 @@ h4{
 	text-transform: capitalize;
 }
 .about-text p{
-	color: #fcfc;
+	color: rgba(134, 74, 0, 0.902);
 	letter-spacing: 1px;
 	line-height: 28px;
 	font-size: 18px;
 	margin-bottom: 45px;
 }
 button{
-	background-color:#f9004d;
+	background-color:#d29327c9;
 	color: white;
 	text-decoration: none;
 	border: 2px solid transparent;
@@ -165,7 +165,7 @@ button{
 }
 button:hover{
 	background-color: transparent;
-	border: 2px solid #f9004d;
+	border: 2px solid #d29327c9;
 	cursor: pointer;
 }
 
@@ -203,7 +203,7 @@ button:hover{
 	display: block;
 	text-align: center;
 	margin: 25px 0px;
-	color: #f9004d;
+	color: #d29327c9;
 
 }
 h5{
@@ -212,13 +212,13 @@ h5{
 	margin-bottom: 15px;
 }
 .pra p{
-	color: #fcfc;
+	color: rgba(134, 74, 0, 0.902);
 	font-size: 16px;
 	line-height: 27px;
 	margin-bottom: 25px;
 }
 .card .button{
-	background-color:#f9004d;
+	background-color:#d29327c9;
 	color: white;
 	text-decoration: none;
 	border: 2px solid transparent;
@@ -226,4 +226,39 @@ h5{
 	padding: 9px 22px;
 	border-radius: 30px;
 	transition: .4s; 
+}
+.card .button:hover{
+	background-color: transparent;
+	border: 2px solid #d29327c9;
+	cursor: pointer;
+}
+.contact-me{
+	width: 100%;
+	height: 290px;
+	background: #191919;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	justify-content: center;
+}
+.contact-me p{
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+	margin-bottom: 25px;
+}
+.contact-me .button-two{
+	background-color:#d29327c9;
+	color: white;
+	text-decoration: none;
+	border: 2px solid transparent;
+	font-weight: bold;
+	padding: 13px 30px;
+	border-radius: 30px;
+	transition: .4s; 
+}
+.contact-me .button-two:hover{
+	background-color: transparent;
+	border: 2px solid #d29327c9;
+	cursor: pointer;
 }
