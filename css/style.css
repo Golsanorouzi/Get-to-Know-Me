@@ -266,7 +266,7 @@ footer{
 	position: relative;
 	width: 100%;
 	height: 400px;
-	background: #101010;
+	background: #cda663c9;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
@@ -294,7 +294,7 @@ footer p:nth-child(2){
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background:  #f9004d;
+	background:rgba(134, 74, 0, 0.902);
 	border-radius: 50%;
 	margin: 22px 10px;
 	color: white;
@@ -307,7 +307,7 @@ footer p:nth-child(2){
 }
 .end{
 	position: absolute;
-	color:#f9004d;
+	color:rgba(134, 74, 0, 0.902);
 	bottom: 35px;
 	font-size: 14px; 
 }
