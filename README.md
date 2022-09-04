@@ -16,14 +16,18 @@ Through this project I learned:
 
 
 ### Screenshot
-![screenshot](https://github.com/Golsanorouzi/unhackable-password-generator/blob/main/assets/Screen%20Shot%202022-08-29%20at%205.11.44%20PM.png)
+![screenshot](https://github.com/Golsanorouzi/Portfolio/blob/main/img/Screenshot.png)
 
 #### References
-https://www.youtube.com/watch?v=KcxmB6leB1c
+https://www.youtube.com/watch?v=G3e-cpL7ofc&t=13s
 
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div
+https://www.youtube.com/watch?v=FazgJVnrVuI
 
-https://www.youtube.com/watch?v=a8CwpGARAsQ
+https://getbootstrap.com/docs/5.2/components/buttons/
+
+https://getbootstrap.com/docs/5.2/components/card/
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/font-size
 
 https://readme.so/editor
 
